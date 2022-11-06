@@ -1,0 +1,11 @@
+const cargoHold =['oxygen tanks', 'space suits', 'parrot', 'instruction manua l', 'meal packs', 'slinky', 'security blanket'];
+console.log(cargoHold);
+cargoHold[5]='space tether';
+console.log(cargoHold);
+cargoHold.pop(6);
+console.log(cargoHold);
+cargoHold.shift(0);
+console.log(cargoHold);
+cargoHold.push(0)=1138;
+cargoHold[5]='20 meters';
+console.log(cargoHold);
